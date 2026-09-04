@@ -1,0 +1,8 @@
+# Source assets (large, not needed for deploy)
+img-b64.json
+extra-b64.json
+images/
+logos/
+index.html
+
+# Keep only dist/ + Docker files
